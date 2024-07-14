@@ -10,7 +10,6 @@ Foco em Integração de Sistemas e Automações:
 Além da minha experiência como consultor, estou sempre aprimorando minhas habilidades em Python para integrar sistemas e automatizar processos. Acredito que a automação é a chave para aumentar a produtividade e a eficiência operacional, permitindo que as empresas alcancem seus objetivos de maneira mais rápida e eficaz.
 
 Principais Competências:
-Python: Estudo continuamente Python, explorando suas capacidades para criar integrações eficientes entre sistemas e desenvolver automações que impulsionam a eficiência dos processos empresariais.
 
 Sistemas de Gestão: Domínio em sistemas de gestão empresarial, garantindo a aplicação das melhores práticas para otimização dos processos e alinhamento com as estratégias organizacionais.
 
